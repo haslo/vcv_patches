@@ -1,6 +1,6 @@
 # vcv_patches
 
-My VCV Patches, as seen on YouTube. They're CC-BY-NC-SA licensed. Here's a table of all of them:
+My VCV Patches, as seen on YouTube. Here's a table of all of them:
 
 
 | File Name | YouTube Link | Includes Paid Modules |
