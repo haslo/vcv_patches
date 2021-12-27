@@ -3,13 +3,14 @@
 My VCV Patches, as seen on YouTube. Here's a table of all of them:
 
 
-| File Name | YouTube Link | Includes Paid Modules |
-| ------------- | ------------- | ------------- |
-| 001_psy.cvc | https://youtu.be/Xu-o7nE_rzQ | Yes |
-| 002_bleeps.cvc  | https://youtu.be/wZ6ZICZDtbM | Yes |
-| 003_first_track.cvc  | https://youtu.be/_sONxmU_j5g | Yes |
-| 004_robot_track.cvc  | https://youtu.be/dhett4l7bPU | ...not sure... |
-| 005_supersaws.cvc  | https://youtu.be/Xj7tqdNX148 | Yes |
-| 006_krell-ish.cvc  | https://youtu.be/z0olcn3tjug | Yes |
-| 007_jingle_bells.cvc  | https://youtu.be/qxfvStGOq0M | Yes |
-| 008_rumble.cvc  | https://youtu.be/K2vaQ6fFoo8 | Yes |
+| File Name | YouTube Link |
+| ------------- | ------------- |
+| 001_psy.vcv | https://youtu.be/Xu-o7nE_rzQ |
+| 002_bleeps.vcv  | https://youtu.be/wZ6ZICZDtbM |
+| 003_first_track.vcv  | https://youtu.be/_sONxmU_j5g |
+| 004_robot_track.vcv  | https://youtu.be/dhett4l7bPU |
+| 005_supersaws.vcv  | https://youtu.be/Xj7tqdNX148 |
+| 006_krell-ish.vcv  | https://youtu.be/z0olcn3tjug |
+| 007_jingle_bells.vcv  | https://youtu.be/qxfvStGOq0M |
+| 008_rumble.vcv  | https://youtu.be/K2vaQ6fFoo8 |
+| 009_generative.vcv  | https://youtu.be/ARmQudUeLr4 |
