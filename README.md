@@ -14,5 +14,5 @@ My VCV Patches, as seen on YouTube. Here's a table of all of them:
 | 007_jingle_bells.vcv  | https://youtu.be/qxfvStGOq0M | |
 | 008_rumble.vcv  | https://youtu.be/K2vaQ6fFoo8 | |
 | 009_generative.vcv  | https://youtu.be/ARmQudUeLr4 | |
-| 010_burst_arp.vcv  | https://youtu.be/ARmQudUeLr4 | |
-| 011_synth_roar.vcv  | https://youtu.be/ARmQudUeLr4 | comes with a Phase Plant patch |
+| 010_burst_arp.vcv  | https://youtu.be/dGFklJ2cONQ | |
+| 011_synth_roar.vcv  | https://youtu.be/AJHw8zw7d0w | comes with a Phase Plant patch |
