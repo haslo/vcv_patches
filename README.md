@@ -16,3 +16,8 @@ My VCV Patches, as seen on YouTube. Here's a table of all of them:
 | 009_generative.vcv  | https://youtu.be/ARmQudUeLr4 | |
 | 010_burst_arp.vcv  | https://youtu.be/dGFklJ2cONQ | |
 | 011_synth_roar.vcv  | https://youtu.be/AJHw8zw7d0w | comes with a Phase Plant patch |
+| 014_terrain.vcv | https://youtu.be/tSRup0_JtZI | |
+| 018_lullaby.vcv | https://youtu.be/YOHZGVyeCNE | |
+| 020_distort.vcv | https://youtu.be/3rmjwWS80qA | |
+| 021_synthwave.vcv | https://youtu.be/rEAzSvsSO5c | let's hope the Phase Plant patches come along? |
+| 023_single_phaseplant.phaseplant | https://youtu.be/UM_SkQp7dk0 | the automation was from Bitwig, not included in this repo |
